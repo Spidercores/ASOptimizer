@@ -14,6 +14,7 @@ To access ASOptimizer, we have developed a web server that runs ASOptimizer on t
 
 - **Chemical Engineering**  
   Algorithms and data pipelines for molecular structure analysis and optimization.
+  To learn more about sequence engineering described in the MTNA paper, please refer to [URL](https://github.com/minkang23/ASOptimizer_sequence).
 
 - **Dataset**  
   Includes experimentally validated chemical data and simulation results.
