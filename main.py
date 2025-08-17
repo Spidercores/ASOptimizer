@@ -10,8 +10,8 @@ import torch
 from scipy import stats
 from absl import flags, app
 from libml import models, utils
-from libml.data import DATASETS
 from sklearn import metrics
+from libml.data import DATASETS
 from tensorflow.python.framework.convert_to_constants import convert_variables_to_constants_v2
 import logging
 logging.getLogger('tensorflow').setLevel(logging.ERROR)
